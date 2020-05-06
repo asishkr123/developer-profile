@@ -1,0 +1,9 @@
+.navBarStyle {
+	display: flex;
+	padding: 5px 15px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navItem {
+	margin-left: auto;
+}

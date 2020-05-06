@@ -1,0 +1,8 @@
+.mainFrame {
+	display: flex;
+	flex-direction: row;
+}
+
+.rightFrame {
+	margin: auto;
+}
